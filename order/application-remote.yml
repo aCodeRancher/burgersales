@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://remote:3306/order
+    username: mysql_admin
+    password: mysql_pin
+    driverClassName: com.mysql.cj.jdbc.Driver
